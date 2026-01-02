@@ -41,3 +41,32 @@ calculator-project/
 1. Download or clone this repository  
    ```bash
    git clone https://github.com/your-username/calculator-project.git
+
+   Open the index.html file in any web browser
+
+Start calculating 🎉
+
+🙌 Future Improvements
+
+Keyboard input support
+
+Advanced operations (%, √, power)
+
+Responsive design for mobile
+
+Dark/Light mode
+
+👨‍💻 Author
+
+Jitendra KanhaiyaSingh Gaherwar
+
+Python | Power BI | Machine Learning
+
+Beginner-friendly projects 🚀
+
+⭐ Support
+
+If you like this project, please give it a ⭐ on GitHub!
+
+
+
